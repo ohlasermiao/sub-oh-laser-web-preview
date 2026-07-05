@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# プレビュー（GitHub Pages）。本番 sub.oh-laser.com 切替時はこの URL を差し替え。
+Sitemap: https://ohlasermiao.github.io/sub-oh-laser-web-preview/sitemap-index.xml
